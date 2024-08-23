@@ -1,13 +1,16 @@
 # ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
 
-- Latest build status with azerothcore:
+## mod-guildhouse
 
-[![Build Status](https://github.com/azerothcore/mod-guildhouse/actions/workflows/core-build.yml/badge.svg)](https://github.com/azerothcore/mod-guildhouse)
+![Latest Release](https://img.shields.io/github/v/release/araxiaonline/mod-guildhouse?label=current%20version)
+![GitHub Release Date](https://img.shields.io/github/release-date/araxiaonline/mod-guildhouse)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/araxiaonline/mod-guildhouse/build-release.yml?branch=araxia-main&event=push&label=build%20status)
 
-# Guild House Module
+<p align="left">
+  <img src="https://github.com/araxiaonline/docs/blob/main/docs/media/logo-sm.png?raw=true" alt="Araxia Online" width="70" style="vertical-align: middle;"/>
+  <span style="font-size: 20px; vertical-align: middle;">Player Tested By Araxia Online</span>
+</p>
 
-> [!IMPORTANT]
-> You have to use at least AzerothCore commit [77f1363](https://github.com/azerothcore/azerothcore-wotlk/commit/77f13636b75f9b25fc1290e297cd002e7df3c89b).
 
 ## Description
 
